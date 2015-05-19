@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:8
+-keep class com.OBDMachine.Application { <init>(...); }
+
+# view AndroidManifest.xml #generated:9
+-keep class com.OBDMachine.activities.MyActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class com.OBDMachine.activities.TestPort { <init>(...); }
+

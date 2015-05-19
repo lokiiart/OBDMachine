@@ -1,0 +1,19 @@
+/Users/loki/Project/ilincar/OBDMachine/bin/classes.dex : \
+/Users/loki/Project/ilincar/OBDMachine/bin/classes/com/OBDMachine/activities/BuildConfig.class \
+/Users/loki/Project/ilincar/OBDMachine/bin/classes/com/OBDMachine/activities/Manifest.class \
+/Users/loki/Project/ilincar/OBDMachine/bin/classes/com/OBDMachine/activities/MyActivity$1.class \
+/Users/loki/Project/ilincar/OBDMachine/bin/classes/com/OBDMachine/activities/MyActivity.class \
+/Users/loki/Project/ilincar/OBDMachine/bin/classes/com/OBDMachine/activities/R$attr.class \
+/Users/loki/Project/ilincar/OBDMachine/bin/classes/com/OBDMachine/activities/R$id.class \
+/Users/loki/Project/ilincar/OBDMachine/bin/classes/com/OBDMachine/activities/R$layout.class \
+/Users/loki/Project/ilincar/OBDMachine/bin/classes/com/OBDMachine/activities/R$string.class \
+/Users/loki/Project/ilincar/OBDMachine/bin/classes/com/OBDMachine/activities/R.class \
+/Users/loki/Project/ilincar/OBDMachine/bin/classes/com/OBDMachine/activities/SerialPortActivity$1.class \
+/Users/loki/Project/ilincar/OBDMachine/bin/classes/com/OBDMachine/activities/SerialPortActivity$ReadThread.class \
+/Users/loki/Project/ilincar/OBDMachine/bin/classes/com/OBDMachine/activities/SerialPortActivity$WriteThread.class \
+/Users/loki/Project/ilincar/OBDMachine/bin/classes/com/OBDMachine/activities/SerialPortActivity.class \
+/Users/loki/Project/ilincar/OBDMachine/bin/classes/com/OBDMachine/activities/TestPort$1.class \
+/Users/loki/Project/ilincar/OBDMachine/bin/classes/com/OBDMachine/activities/TestPort.class \
+/Users/loki/Project/ilincar/OBDMachine/bin/classes/com/OBDMachine/Application.class \
+/Users/loki/Project/ilincar/OBDMachine/bin/classes/com/OBDMachine/machines/SerialPort.class \
+/Users/loki/Project/ilincar/OBDMachine/bin/dexedLibs/annotations-7c2253dd0563966e0b4d8244d2bf27bb.jar \
